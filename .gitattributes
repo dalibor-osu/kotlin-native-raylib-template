@@ -1,1 +1,2 @@
-src/raylibInterop/* linguist-vendored
+*.h linguist-generated=true
+*.c linguist-generated=true
